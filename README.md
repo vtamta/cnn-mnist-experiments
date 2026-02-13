@@ -20,9 +20,6 @@ This project implements Convolutional Neural Networks (CNNs) for clothing classi
 git clone https://github.com/yourusername/cnn-fashion-mnist.git
 cd cnn-fashion-mnist
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the notebook
 jupyter notebook cnn_mnist_classification.ipynb
 ```
