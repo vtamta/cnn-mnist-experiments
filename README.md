@@ -275,13 +275,6 @@ Potential enhancements:
 
 Personal learning project. Suggestions and feedback welcome!
 
-## ✉️ Contact
-
-**Vaibhav Tamta**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - TensorFlow and Keras development teams
